@@ -1,16 +1,25 @@
-def dobro(preco):
+def dobro(preco, show_cifrao):
   resultado = preco*2
-  return resultado
+  if show_cifrao:
+    return cifrao(resultado)
+  else:
+    return resultado
 
 
-def metade(preco):
+def metade(preco, show_cifrao):
   resultado = preco/2
-  return resultado
+  if show_cifrao:
+    return cifrao(resultado)
+  else:
+    return resultado
 
 
-def porcentagem(preco, porcentagem):
+def porcentagem(preco, porcentagem, show_cifrao):
   resultado = preco+preco*(porcentagem/100)
-  return resultado
+  if show_cifrao:
+    return cifrao(resultado)
+  else:
+    return resultado
 
 
 def cifrao(numero):
