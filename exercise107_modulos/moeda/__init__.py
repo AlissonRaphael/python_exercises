@@ -12,3 +12,7 @@ def porcentagem(preco, porcentagem):
   resultado = preco+preco*(porcentagem/100)
   return resultado
 
+
+def cifrao(numero):
+  return f'R$ {numero:.2f}'
+
