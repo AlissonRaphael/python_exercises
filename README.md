@@ -1,7 +1,7 @@
 # Python Exercises
 
 ![GitHub](https://img.shields.io/github/license/AlissonRaphael/python_exercises)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mypy)
+![GithubPages Badge](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white&labelColor=606164&color=1284c5)
 
 This repository has all the exercises proposed for the python course by professor Gustavo Guanabara (chanel [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)).
 
